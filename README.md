@@ -1,2 +1,2 @@
 # PWr-MPiS
-PWr MPiS Informatyka Algorytmiczna
+Kurs 'Metody Probabilistyczne i Statystyka' na Politechnice Wroclawskiej (Informatyka Algorytmiczna)
